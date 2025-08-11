@@ -11,7 +11,6 @@ My goal is to deepen my expertise and contribute to impactful AI projects while 
 - 🌱 Still learning & evolving in AI and deep learning  
 - 🎯 Goal: Build real-world AI solutions with PyTorch & TensorFlow  
 - 📍 Based in **Iran**  
-- ☕ Powered by curiosity and coffee  
 
 ---
 
